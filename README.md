@@ -1,8 +1,5 @@
-Telephony
-=========
-
 Free Contact Centre Solution
-
+============================
 This is an Asterisk PBX system based free telephony software I have created with CTI as well as IVR to welcome the telephone callers 
 and record the phone conversations as well as computer screen in audio/video files for quality assurance and training of staff. 
 
@@ -18,20 +15,12 @@ Please contact for support, further information, or to have this software custom
 
 Mudassir Saeed
 ebne.saeed@gmail.com 
+http://www.mmsaeed.top8.com
 
 
 
-
-
-
-
-
-
-
-
-
-THE DYNAMIC IVR - THE FUTURE TELEPHONY
-======================================
+TRUE DYNAMIC IVR - THE FUTURE TELEPHONY
+=======================================
 
 Where unlike traditional IVRs, options are not simply memorised by customers, or skipped through without even listening.
 
